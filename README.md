@@ -20,7 +20,7 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 
 ## About Me  <img src="https://media.giphy.com/media/HrRvnN7NuJy4InG4MV/giphy.gif?cid=790b7611aihcpm34y4dcrvfzyk6h8qzy6bgvvnbxphj0umpd&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="26">
 
-- **Print-On-Demand (ex-)Entrepreneur**: I co-founded and ran a B2B print-on-demand startup with my brother for 2.5 years. We built a platform from scratch with a team of devs using **Next.js**, **Bamboo**, and **AWS**—a wild ride that taught me to juggle code, coffee, and clients like a pro.
+- **Print-On-Demand (ex-)Entrepreneur**: I co-founded and ran a B2B print-on-demand startup with my brother for 2.5 years. We built a platform from scratch with a team of devs using **Next.js**, **Bamboo**, and **AWS**—a wild ride that taught me to juggle code, coffee, and clients.
 - **First Neural Net & Beyond**: My very first neural net (Python, 2017), used to predict pilot error in flight delay estimates, got accepted at the **ATRS World Conference**, and I’ve been addicted to AI ever since. 
 - **Fun AI Projects**: 
   - An **AI driving bot for GTA**—unfortunately I didn't tell it that it was playing GTA, so it was far too civilised.
