@@ -45,7 +45,7 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 
 - **Advanced Control & Simulation**: Perfecting my knowledge of aerospace, robotics, and how to make systems do what they’re told.
 - **Cloud AI**: Leveraging Azure to deploy, scale, and maintain ML solutions that (hopefully) save lives and make the world a tad better.
-- **Casual Game Dev**: Because occasionally you just want to blow things up (virtually, of course)
+- **Casual Game Dev**: Because 3D graphics and real-time performance interest me.
 
 ---
 
