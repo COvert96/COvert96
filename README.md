@@ -23,9 +23,9 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 - **Print-On-Demand (ex-)Entrepreneur**: I co-founded and ran a B2B print-on-demand startup with my brother for 2.5 years. We built a platform from scratch with a team of devs using **Next.js**, **Bamboo**, and **AWS** - a wild ride that taught me a lot about management.
 - **First Neural Net & Beyond**: My very first neural net (Python, 2017), used to predict pilot error in flight delay estimates, got accepted at the **ATRS World Conference**, and I’ve loved AI/ML ever since. 
 - **Fun AI Projects**: 
-  - An **AI driving bot for GTA**—unfortunately I didn't tell it that it was playing GTA, so it was far too civilised.
-  - A **YOLO model for RuneScape farming**—digital agriculture meets object detection.
-  - A **Tic-Tac-Toe bot** using minimax with alpha-beta pruning—yes.
+  - An **AI driving bot for GTA** -- unfortunately I didn't tell it that it was playing GTA, so it was far too civilised.
+  - A **YOLO model for RuneScape farming** -- digital agriculture meets object detection.
+  - A **Tic-Tac-Toe bot** using minimax with alpha-beta pruning -- yes.
   - **More projects** I never bothered to document and have been lost to the ether... but no longer will this be the case!
 - **Algorithmic Pairs Trading** with RandomForest regression using sklearn, interactive brokers, and a ton of (paper) money. Sorry the repo is private 🤫
 - **Learning the Azure Cloud**: At MSF, I'm diving deep into **Azure** services and exploring how AI can make a real difference in humanitarian missions.
