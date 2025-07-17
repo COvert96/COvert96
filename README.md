@@ -25,7 +25,7 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 - **Fun AI Projects**: 
   - An **AI driving bot for GTA** -- unfortunately I didn't tell it that it was playing GTA, so it was far too civilised.
   - A **YOLO model for RuneScape farming** -- digital agriculture meets object detection.
-  - A **Tic-Tac-Toe bot** using minimax with alpha-beta pruning -- yes.
+  - A **Tic-Tac-Toe bot** using minimax with alpha-beta pruning.
   - **More projects** I never bothered to document and have been lost to the ether... but no longer will this be the case!
 - **Algorithmic Pairs Trading** with RandomForest regression using sklearn, interactive brokers, and a ton of (paper) money. Sorry the repo is private 🤫
 - **Learning the Azure Cloud**: At MSF, I'm diving deep into **Azure** services and exploring how AI can make a real difference in humanitarian missions.
