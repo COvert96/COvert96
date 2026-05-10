@@ -43,16 +43,16 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 
 ## Current Focus  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThlY2dxd2p4MW4ydmY4NnVzbzdqY2UwN2x5ZjI0YWFicG1rcDNxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QZVdubDMj6RCvBOQBk/giphy.gif" width="42">
 
-- **Advanced Control & Simulation**: Perfecting my knowledge of aerospace, robotics, and how to make systems do what they’re told.
 - **Cloud AI**: Leveraging Azure to deploy, scale, and maintain ML solutions that (hopefully) save lives and make the world a tad better.
-- **Casual Game Dev**: Because 3D graphics and real-time performance interest me.
+- **Agentic Frameworks**: Agent harnesses, sub-agents, on-prem workflows with local models (quantized obviously).
+- **System Design**: With latest developments in Claude Code/Codex/OpenCode etc. I have taken a much keener interest in architecture and system design best practices, and using these to help keep agents in check and the software robust.
 
 ---
 
 ## Let’s Connect  <img src="https://media.giphy.com/media/mr1Y20DOOU1awBRjiP/giphy.gif?cid=ecf05e47r3btjowhdnswqm6xtsvbj1nupiztu31wglyq5x39&ep=v1_stickers_search&rid=giphy.gif" width="36">
 
 - **Projects & Code**: Check out my public repos below!
-- **Collaboration**: Always happy to discuss interesting AI/ML ideas, game dev experiments, or wacky side projects. 
+- **Collaboration**: Always happy to discuss interesting AI/ML ideas or wacky side projects. 
 - **Contact**: Feel free to open an issue or drop a message.
 
 Thanks for stopping by, and don’t forget to smash that ⭐ button if you like what you see!
