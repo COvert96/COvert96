@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hey there!  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252YWJyNTAxaGU5MGEwNjM4Nmc5eTl0NTJiMDVxamZhZXVsd2RxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="36">
 
-I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft and moonlighting as an **AI Engineer** at **MSF (Doctors Without Borders)**. 
+I'm Chris, I'm current open to work and new collaborations.
 
 ---
 
@@ -23,28 +23,28 @@ I'm Chris, currently working on an MSc in **Control & Simulation** at TU Delft a
 - **Print-On-Demand (ex-)Entrepreneur**: I co-founded and ran a B2B print-on-demand startup with my brother for 2.5 years. We built a platform from scratch with a team of devs using **Next.js**, **Bamboo**, and **AWS** - a wild ride that taught me a lot about management.
 - **First Neural Net & Beyond**: My very first neural net (Python, 2017), used to predict pilot error in flight delay estimates, got accepted at the **ATRS World Conference**, and I’ve loved AI/ML ever since. 
 - **Fun AI Projects**: 
-  - An **AI driving bot for GTA** -- unfortunately I didn't tell it that it was playing GTA, so it was far too civilised.
+  - An **AI driving bot for GTA** -- early locally run computer vision project.
   - A **YOLO model for RuneScape farming** -- digital agriculture meets object detection.
   - A **Tic-Tac-Toe bot** using minimax with alpha-beta pruning.
   - **More projects** I never bothered to document and have been lost to the ether... but no longer will this be the case!
 - **Algorithmic Pairs Trading** with RandomForest regression using sklearn, interactive brokers, and a ton of (paper) money. Sorry the repo is private 🤫
-- **Learning the Azure Cloud**: At MSF, I'm diving deep into **Azure** services and exploring how AI can make a real difference in humanitarian missions.
+- **Learning the Azure Cloud**: At MSF, I dove deep into **Azure** services and exploring how AI can make a real difference in humanitarian missions.
 
 ---
 
 ## Tech & Tools I Enjoy <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpxczl0dDd6MTFpZHJudmhvZHQzem85YnYxZTBuY29jNGMzYXRpNiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/jSKBmKkvo2dPQQtsR1/giphy.gif" width="64">
 
-- **Languages**: Python, C, C++, a bit of JavaScript
+- **Languages**: Python (primary), C, C++, a bit of TypeScript + React
 - **Frameworks & Services**: TensorFlow (okay _enjoy_ is a bit strong), PyTorch, Azure ML, AWS
-- **Misc.**: Atlassian Tools, GitHub Actions, Docker, Azure Pipelines
-- **Not forgotten**: Matlab, Typescript, R, Go, Java, HTML, CSS
+- **Misc.**: Atlassian Tools, GitHub Actions, Docker, Terraform, Azure Pipelines
+- **Not forgotten**: Matlab, JavaScript, R, Go, HTML, CSS
 
 ---
 
 ## Current Focus  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMThlY2dxd2p4MW4ydmY4NnVzbzdqY2UwN2x5ZjI0YWFicG1rcDNxNyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/QZVdubDMj6RCvBOQBk/giphy.gif" width="42">
 
-- **Cloud AI**: Leveraging Azure to deploy, scale, and maintain ML solutions that (hopefully) save lives and make the world a tad better.
-- **Agentic Frameworks**: Agent harnesses, sub-agents, on-prem workflows with local models (quantized obviously).
+- **Cloud AI**: Leveraging Azure to deploy, scale, and maintain ML solutions.
+- **Agentic Frameworks**: Agent harnesses, sub-agents, on-prem workflows with local models (HuggingFace Transformers, vLLM, Ollama).
 - **System Design**: With latest developments in Claude Code/Codex/OpenCode etc. I have taken a much keener interest in architecture and system design best practices, and using these to help keep agents in check and the software robust.
 
 ---
