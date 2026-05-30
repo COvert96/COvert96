@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ## Hey there!  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa252YWJyNTAxaGU5MGEwNjM4Nmc5eTl0NTJiMDVxamZhZXVsd2RxbiZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9ZQ/LOnt6uqjD9OexmQJRB/giphy.gif" width="36">
 
-I'm Chris, I'm current open to work and new collaborations.
+I'm Chris, I'm currently open to work and new collaborations.
 
 ---
 
